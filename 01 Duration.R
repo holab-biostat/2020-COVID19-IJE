@@ -1,3 +1,5 @@
+rm(list=ls())
+
 library(tsModel)
 library(mvtnorm)
 library(mvmeta)
